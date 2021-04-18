@@ -4,7 +4,9 @@
 ## Case Information
 USB Cutout is meant to be used with a thin style USB cable, like [this one.](https://www.amazon.com/gp/product/B08M16YSTB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) If you chose to use a larger cable, it won't fit right. 
 
-My recommendations for what color acrylic and POM to use are listed below. If you choose something other than clear for L7 then you won't be able to see the resistors and components. 
+My recommendations for what color acrylic and POM to use are listed below. If you choose something other than clear for L7 then you won't be able to see the resistors and components.
+
+The TRRS connectors are not exposed in this case. They will be included in future revision.
 
 ### Layers
 #### Mandatory Layers
