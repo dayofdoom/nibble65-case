@@ -37,7 +37,7 @@ The TRRS connectors are not exposed in this case. They will be included in futur
 
 ## Getting one
 * Option 1: Use the files in repo with a cut on demand service like Ponoko. 
-* Option 2: Buy one from me here: *coming soon*
+* Option 2: [Buy one from me here on Etsy](https://www.etsy.com/listing/1053418292/nibble-acrylic-case-with-pom-plate?ref=shop_home_active_1&frs=1)
 
 ## About the files
 These files are provided for noncommercial purposes. Use them to make yourself or your friend a nice case. 
