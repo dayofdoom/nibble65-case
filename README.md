@@ -1,5 +1,5 @@
 # NIBBLE65 Acrylic Case
-
+![Sample of Finished Case](nibble65.jpeg)
 ## Case Information
 USB Cutout is meant to be used with a thin style USB cable, like [this one.](https://www.amazon.com/gp/product/B08M16YSTB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) If you choose to use a larger cable, it won't fit right.
 
